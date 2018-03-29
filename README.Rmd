@@ -4,7 +4,6 @@ output: github_document
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-<!-- rmarkdown v1 -->
 
 ```{r setup, include = FALSE}
 knitr::opts_chunk$set(
@@ -15,15 +14,15 @@ knitr::opts_chunk$set(
 )
 ```
 
+                                                                              
+
+# modelmanagr
 
 ```{r echo=FALSE, prompt=FALSE, results='asis', comment=""}
 cat('
 [![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 ')
 ```
-                                                                                
-
-# modelmanagr
 
 ## Abstract
 
